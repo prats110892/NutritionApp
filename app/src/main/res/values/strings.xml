@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NutritionApp</string>
+    <string name="scan_item">SCAN ITEM</string>
+
+    <string name="app_id">3abce9c8</string>
+    <string name="app_key">37a6af5decf5d19252bb60a2f0c6a0b8</string>
+    <string name="progress_message">Finding the food item...</string>
+</resources>
